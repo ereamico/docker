@@ -1,7 +1,3 @@
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.docker.com%2Fsites%2Fdefault%2Ffiles%2Fsocial%2Fdocker_facebook_share.png&imgrefurl=https%3A%2F%2Fwww.docker.com%2F&docid=txXKytln-5xeJM&tbnid=eJWKdKQbAHJXiM%3A&vet=10ahUKEwiS-bPCjsrkAhUBY6wKHduKDZkQMwhSKAMwAw..i&w=336&h=287&bih=596&biw=1384&q=docker%20small%20logo&ved=0ahUKEwiS-bPCjsrkAhUBY6wKHduKDZkQMwhSKAMwAw&iact=mrc&uact=8
-
-
-
 
 
 # docker case study
