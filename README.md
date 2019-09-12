@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/52337688/64746581-d4812e80-d4d1-11e9-8848-6b66df252618.png)
 
 # docker case study
 
