@@ -13,3 +13,6 @@ The company wants the following things:
 1. Push a container to DockerHub with the above config
 2. The Developers will not be working with Docker, hence from their side you will just get the
 code. Write a Dockerfile which could put the code in the custom image that you have built
+
+
+The complete step by step process can be seen in the above commits with screenshots.
